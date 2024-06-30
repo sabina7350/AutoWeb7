@@ -1,0 +1,22 @@
+{
+  "name": "autoweb7",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sabina7350/AutoWeb7.git"
+  },
+  "author": "Sabina Zholtaeva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabina7350/AutoWeb7/issues"
+  },
+  "homepage": "https://github.com/sabina7350/AutoWeb7#readme",
+  "description": "",
+  "dependencies": {
+    "cypress": "^13.12.0"
+  }
+}
